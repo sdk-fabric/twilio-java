@@ -1,0 +1,9 @@
+{
+  "name": "Twilio",
+  "description": "Twilio Java SDK managed by SDK Fabric",
+  "website": "https://sdk-fabric.org",
+  "namespace": "org.sdkfabric.twilio",
+  "namespace_path": "org/sdkfabric/twilio",
+  "group_id": "org.sdk-fabric",
+  "artifact_id": "twilio"
+}
