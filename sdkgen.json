@@ -1,0 +1,9 @@
+{
+  "type": "client-java",
+  "require": {
+    "sdkfabric/twilio": {
+      "target": "./src/main/java/org/sdkfabric/twilio",
+      "namespace": "org.sdkfabric.twilio"
+    }
+  }
+}
